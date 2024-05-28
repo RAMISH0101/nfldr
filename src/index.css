@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,500;1,500&display=swap');
+
+*{
+  background-color:peachpuff;
+}
+
+.pop{
+  display: flex;
+  justify-content: center;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Radio Canada Big' ;
+}
+.im{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+    width: 50%;
+}
